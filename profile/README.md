@@ -7,7 +7,7 @@
   - [Frontend](https://github.com/SudoKuru/Frontend)
     - This repository hosts code for app and website
   - [Sudokuru](https://github.com/SudoKuru/Sudokuru)
-    - Isomorphic library that houses Sudoku logic: hint generation, difficulty calculations, etc.
+    - Isomorphic library that houses Sudoku logic: hint generation, drill generation, difficulty calculations, etc.
 - Utility Repositories
   - [Clearinghouse](https://github.com/Sudokuru/Clearinghouse)
     - This repository hosts code for generating metadata for Sudoku puzzles at scale. Used for puzzle categorization, analytics, etc.
